@@ -1,0 +1,14 @@
+
+//
+//
+
+#ifndef FINAL_PORTFOLIO_PROJECT_PICK_UP_H
+#define FINAL_PORTFOLIO_PROJECT_PICK_UP_H
+
+
+class Pick_up {
+
+};
+
+
+#endif //FINAL_PORTFOLIO_PROJECT_PICK_UP_H
